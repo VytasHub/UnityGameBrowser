@@ -37,7 +37,7 @@ YourPcName would be whatever your pc named and then if the cloned version is put
 
 C:\Users\YourPcName\Desktop\UnityGame\UnityGameBrowser\FinishedBrowser\_Builds\BrowserFinished.
 
-Second way would be to open up in <b>Unity</b>when project is cloned on Desktop, open Unity go to File click Open Project click on Open Other… find your project that you cloned from GitHub and opened. By now its opened in Unity you can Edit project. If you want to run it you need to Start Main Scene. Go to Assets folder click on it find Scene folder and click on MenuSystem Scene that will start main Scene and you can play a game.
+Second way would be to open up in <b>Unity </b>when project is cloned on Desktop, open <b>Unity </b>go to <b>File </b> click <b>Open project </b>click on <b>Open Other… </b>find your project that you cloned from GitHub and opened. By now its opened in <b>Unity </b>you can Edit project. If you want to run it you need to Start Main Scene. Go to <b>Assets </b>folder click on it find <b>Scene </b>folder and click on <b>MenuSystem </b>Scene that will start main Scene and you can play  game.
 
 Guide (Browser)
 =============
