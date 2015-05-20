@@ -14,7 +14,7 @@ Contents
 
 About
 =============
-<a href="ronanconnolly.ie/unity/heartchaser/game.html">
+<a href="http://www.ronanconnolly.ie/unity/heartchaser/game.html">
 <strong>Website</strong>
 
 
