@@ -17,6 +17,7 @@ About
 It’s an endless runner game never ending game. The game was entered in competition Irish Games Festival 2015 in Athlone, Thurles made by Vytas.
 Game can be played on the link here <a href="http://www.ronanconnolly.ie/unity/heartchaser/game.html"><strong>Game</strong> 
 
+![HartChaser Logo](https://github.com/VytasHub/UnityGameBrowser/blob/master/FinishedBrowser/Assets/gameIcon.png "HartChaser")
 
 
 
