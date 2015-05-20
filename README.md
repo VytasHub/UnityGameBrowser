@@ -14,7 +14,8 @@ Contents
 
 About
 =============
-Game can be played on the link here <a href="http://ronanconnolly.ie/unity/heartchaser/game.html "><strong>Game</strong> it’s hosted on friends website since he has free hosting
+Game can be played on the link here <a href="http://ronanconnolly.ie/unity/heartchaser/game.html "><strong>Game</strong> 
+it’s hosted on friends website since he has free hosting
 
 
 
