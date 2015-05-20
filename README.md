@@ -52,6 +52,7 @@ The game can be played on ronanconnolly.ie website which my friends website he i
 How to Play
 =============
 
+The Game follows simple Controls using traditional A, W, D; using A to move left, W to jump, D to move right. You avoid Cactus and falling cats from sky and you can’t touch Top or side walls. The aim of the game is to collect as many harts as possible you can also move up higher jump on moving platforms. Every time you collect hart Brick explodes.
 
 
 Conclusion
