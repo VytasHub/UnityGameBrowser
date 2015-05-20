@@ -42,7 +42,9 @@ Second way would be to open up in <b>Unity </b>when project is cloned on Desktop
 Guide (Browser)
 =============
 
-The game can be played on www.ronanconnolly.ie website which my friends website he is hosting for  free , geting friends or family to do stuff for free is nown in industry as LOVE money , so i use this to my advantage to avoid costs.Recomended to play on FireFox or Chrome browser with Unity Plug In Installed. Here is link to the game <a href="http://www.ronanconnolly.ie/unity/heartchaser/game.html">
+The game can be played on www.ronanconnolly.ie website which my friends website he is hosting for  free , getting friends or family to do stuff for free is known in industry as LOVE money , so i use this to my advantage to avoid costs. Recommended to play on Firefox or Chrome browser with Unity Plug in Installed. Here is link to the game 
+<a href="http://www.ronanconnolly.ie/unity/heartchaser/game.html">How to Play
+
 
 
 How to Play
