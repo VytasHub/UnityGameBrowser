@@ -27,6 +27,10 @@ Environment & Tools
 =============
 
 Game was created using Unity 4 using 2D environment on Windows 8.1 
+Images prepeared and put in sequence using Gimp.
+Animations were created by Unity Animation tool provided.
+Sounds was created by third party provided by Games competition.
+
 
 Installation (Unity)
 =============
