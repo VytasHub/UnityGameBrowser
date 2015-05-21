@@ -57,8 +57,15 @@ The Game follows simple Controls using traditional A, W, D; using A to move left
 
 Conclusion
 =============
+This Project was great learning experience didn’t know any Unity before, but had good solid experience in C#, now I have good understanding of how games work and what’s involved in making them. My game consists of Scripts, Animations, Prefabs, Artwork and Music. Each of these is required to make good game. Game also includes social feature. As far as programing goes game contains 19 scripts has one Main script that one calls the rest and few scripts for the menu.
+
+
 
 Art Work  
 =============
+For art work I have used my friends designs i have cropped and edited parts of designs that I like and fitted them in to my game and made animations form them, was using Gimp to do it and sometimes Paint, got pretty good at Gimp in the process here is the link to website where I got my designs from.
+
+<a href="http://vasare.co.uk/"><strong>Website</strong>
+<a href="https://instagram.com/vasarelle/"><strong>Instagram</strong>
 
 
